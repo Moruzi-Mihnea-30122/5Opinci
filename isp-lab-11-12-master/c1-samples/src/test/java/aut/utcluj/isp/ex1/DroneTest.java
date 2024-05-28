@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
  * @author mihai.hulea
  */
 
-public class DroneTest {
+public class DroneTest{
     
     public DroneTest() {
     }
