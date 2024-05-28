@@ -34,6 +34,10 @@ public class Drone {
     public int hashCode() {
         return Objects.hash(super.hashCode(), id);
     }
+
+}
+
+public class Main{
     public static void main(String[] args){
         Drone d1 = new Drone("1234", true);
         Drone d2 = new Drone("1234", false);
